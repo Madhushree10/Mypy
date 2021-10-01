@@ -1,0 +1,48 @@
+
+-----------------------OUTPUT OF BLACKJACK-------------------------
+
+Do you want to play a game of Blackjack? Type 'y' or 'n': y
+
+.------.            _     _            _    _            _    
+|A_  _ |.          | |   | |          | |  (_)          | |   
+|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
+| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
+`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\
+      |  \/ K|                            _/ |                
+      `------'                           |__/           
+
+   Your cards: [11, 4], current score: 15
+   Computer's first card: 5
+
+Type 'y' to get another card, type 'n' to pass: y
+   Your cards: [11, 4, 7], current score: 22
+   Computer's first card: 5
+   Your final hand: [11, 4, 7], final score: 22
+   Computer's final hand: [5, 5, 2, 10], final score: 22
+You went over. You lose 😤
+
+Do you want to play a game of Blackjack? Type 'y' or 'n': y
+
+.------.            _     _            _    _            _    
+|A_  _ |.          | |   | |          | |  (_)          | |   
+|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
+| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
+`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\
+      |  \/ K|                            _/ |                
+      `------'                           |__/           
+
+   Your cards: [11, 9], current score: 20
+   Computer's first card: 10
+
+Type 'y' to get another card, type 'n' to pass: n
+   Your final hand: [11, 9], final score: 20
+   Computer's final hand: [10, 9], final score: 19
+You win 😃
+
+Do you want to play a game of Blackjack? Type 'y' or 'n': n
+
+
+-----------------------END--------------------------------------
+
